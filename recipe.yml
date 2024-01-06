@@ -1,0 +1,13 @@
+name: 'SEO'
+description: 'A recipe for getting started with SEO improvements.'
+type: 'Site'
+
+install:
+  - hreflang
+  - metatag
+  - schema_metatag
+
+config:
+  import:
+    hreflang: '*'
+    metatag: '*'
