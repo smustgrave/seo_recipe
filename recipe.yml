@@ -3,11 +3,17 @@ description: 'A recipe for getting started with SEO improvements.'
 type: 'Site'
 
 install:
+  - google_tag
   - hreflang
   - metatag
   - schema_metatag
+  - simple_sitemap
+  - sitemap
 
 config:
   import:
+    google_tag: '*'
     hreflang: '*'
     metatag: '*'
+    simple_sitemap: '*'
+    sitemap: '*'
