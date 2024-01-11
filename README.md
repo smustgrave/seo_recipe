@@ -1,5 +1,7 @@
 # SEO Recipe
 
+See Packagist page https://packagist.org/packages/smustgrave/seo_recipe
+
 ## What is a recipe?
 From [initiatve page](https://git.drupalcode.org/project/distributions_recipes/-/blob/1.0.x/docs/recipe.md#what-is-a-drupal-recipe)
 > Drupal recipes allow the automation of Drupal module install and configuration
