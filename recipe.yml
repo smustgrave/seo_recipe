@@ -3,17 +3,23 @@ description: 'A recipe for getting started with SEO improvements.'
 type: 'Site'
 
 install:
+  - easy_breadcrumb
+  - extlink
   - google_tag
   - hreflang
   - metatag
+  - pathauto
   - schema_metatag
   - simple_sitemap
   - sitemap
 
 config:
   import:
+    easy_breadcrumb: '*'
+    extlink: '*'
     google_tag: '*'
     hreflang: '*'
     metatag: '*'
+    pathauto: '*'
     simple_sitemap: '*'
     sitemap: '*'

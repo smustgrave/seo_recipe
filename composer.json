@@ -11,9 +11,12 @@
     }
   ],
   "require": {
+    "drupal/easy_breadcrumb": "^2.0",
+    "drupal/extlink": "^1.7",
     "drupal/google_tag": "^2.0",
     "drupal/hreflang": "^1.12",
     "drupal/metatag": "^2.0",
+    "drupal/pathauto": "^1.12",
     "drupal/schema_metatag": "^3.0",
     "drupal/simple_sitemap": "^4.1",
     "drupal/sitemap": "^2.0@beta"

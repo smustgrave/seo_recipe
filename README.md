@@ -14,6 +14,14 @@ functionality. These steps could be taken manually to arrive at the same point.
 ## Additional Configuration
 This recipe will install some generic settings but SEO can be very unique per project. This is just to get started.
 
+### Easy Breadcrumb
+Based configuration should be good but worth taking a look based on project needs.
+See [Easy Breadcrumb](https://www.drupal.org/project/easy_breadcrumb) module page for additional module .info.
+
+### External links
+Based configuration should be good but worth taking a look based on project needs. 
+See [External Liks](https://www.drupal.org/project/extlink) module page for additional module .info.
+
 ### Google Tag 
 Google tag needs a specific ID to work, and configuration based on needs. Update configuration upon installing recipe.
 See [Google Tag](https://www.drupal.org/project/google_tag) module page for additional module info.
@@ -21,6 +29,10 @@ See [Google Tag](https://www.drupal.org/project/google_tag) module page for addi
 ### Metatag
 There are several submodules associated with metatag, based on your projects SEO needs additional ones may be 
 installed. See [metatag module](https://www.drupal.org/project/metatag) for additional module info.
+
+### Pathauto
+Based configuration should be good but worth taking a look based on project needs.
+See [Pathauto](https://www.drupal.org/project/pathauto) module page for additional module .info.
 
 ### Schema.org Metatag
 There are several submodules associated with metatag, based on your projects SEO needs additional ones may be
